@@ -1,0 +1,11 @@
+{
+    "name": "help/workpath",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Help\\Workpath\\": "src/"
+        }
+    },
+    "require": {}
+}
